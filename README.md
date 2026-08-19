@@ -20,5 +20,3 @@ An interactive **Tableau dashboard** analyzing crime patterns in Los Angeles.
 ### 📂 Dataset
 
 [Crimes in Los Angeles — Kaggle](https://www.kaggle.com/datasets/sudhanvahg/crimes-in-las-angeles/code)
-
-[Los Angeles Crime Dashboard](dashboard.png)
